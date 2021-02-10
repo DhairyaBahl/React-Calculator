@@ -1,0 +1,79 @@
+.input{
+  color:white;
+  text-align: right;
+  margin-right:20px;
+  font-size: 40px;
+  margin-top: 15px;
+}
+.App {
+  text-align: center;
+}
+
+nav{
+  border:1px solid white;
+  height:60px;;
+}
+
+
+.clear{
+  color:#39ff14;
+  font-weight:bold;
+  font-size: 25px;
+}
+
+button{
+  border-radius: 100px;
+  width:60px;
+  background-color: black;
+  color:white;
+  width: 60px;
+  border:solid 2px white;
+}
+
+.maths{
+  color:deeppink;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.row1{
+  position:absolute;
+  top:170px;
+}
+
+.row2{
+  top:270px;
+  position: absolute;
+}
+
+.row3{
+  top:370px;
+  position: absolute;
+}
+
+.row4{
+  top:470px;
+  position: absolute;
+}
+
+.row5{
+  top:565px;
+  position: absolute;
+}
+
+.col1{
+  position: absolute;
+  left:15px;
+}
+
+.col2{
+  left:100px;
+}
+
+.col3{
+  left:190px;
+}
+
+.col4{
+  left:280px;
+}
