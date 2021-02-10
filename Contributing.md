@@ -1,5 +1,8 @@
 # Contributing Guidelines
 
+## Note
+This Repository is not created for the purpose of contribution. Still if you want to contribute then you can make a PR 😊
+
 ## Forking
 If you are assigned to an issue or if you want to test the project in your local system, you should fork the project so that you can make changes in your personal space without affecting the orignal repository 😊 .
 
